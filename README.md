@@ -3,8 +3,11 @@ Simple script for updating holsters when equipping / putting away handguns.
 
 [Video](https://www.youtube.com/watch?v=E-Cww7a2ggk)
 
+> [!WARNING]
+> Requires ox_lib
+
 ## Compatibility
-This script has been tested on QBox with Illenium Appearance. Since QBox is mostly backwards compatible with QB-Core, this should also work with QB-Core.
+This script has been tested on QBox with Illenium Appearance. Since QBox is mostly backwards compatible with QB-Core, this should also work with QB-Core. You also need ox_lib.
 
 For inventory management I've used ox_inventory, but the script doesn't depend on any inventory script and should work without.
 
